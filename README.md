@@ -1,5 +1,7 @@
 # deliveryDriver2DGame
-A 2D game made in Unity using C#. You can drive a car, take coins and deliver them to the customer.
+- A 2D game made in Unity using C#.<br>
+- You can drive a car, take coins and deliver them to the customer.
+- Environment contains different types of trees, houses, rocks, etc.
 
 # Preview
 <img width="1426" alt="Screenshot_1" src="https://github.com/MohitSinghDhakad/deliveryDriver2DGame/assets/104711950/e8f5c35a-9d2b-4cc8-a9c3-f75f53554a09">
